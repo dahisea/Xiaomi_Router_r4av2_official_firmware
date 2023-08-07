@@ -1,2 +1,0 @@
-# Xiaomi_Router_r4av2_official_firmware
-小米路由器4A千兆版2023新款，在互联网上所找到的官方固件
